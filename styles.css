@@ -6,6 +6,12 @@
 
 body {
   height: 100vh;
+  background-image: url(../assets/cropped-1920-1080-772098.jpg);
+  color: whitesmoke;
+  background-position-y: 115px;
+  background-size: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 header {
@@ -38,32 +44,13 @@ img {
 }
 
 main {
-  background-image: url(../assets/cropped-1920-1080-772098.jpg);
-  color: whitesmoke;
   padding-top: 115px;
-  background-position-y: 115px;
-  background-size: 100%;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-}
-
-.bg-color {
-  background-color: rgb(0, 0, 0, 0.5);
-}
-
-pre {
-  font-size: 30px;
-  font-family: "Explora";
-  font-weight: 400;
-}
-
-audio {
-  float: right;
 }
 
 iframe {
   display: block;
-  margin: 100px auto;
+  margin: 10vh auto;
+  border: 2px solid rgb(0, 0, 0, 0.5);
 }
 
 a:link {
