@@ -38,7 +38,7 @@ img {
 }
 
 main {
-  background-image: url(../assets/cropped-1920-1080-772098.jpg);
+  background-image: url(./assets/backgroundimage.jpg);
   color: whitesmoke;
   padding-top: 115px;
   background-position-y: 115px;

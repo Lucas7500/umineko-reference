@@ -6,7 +6,7 @@
 
 body {
   height: 100vh;
-  background-image: url(../assets/cropped-1920-1080-772098.jpg);
+  background-image: url(./assets/backgroundimage.jpg);
   color: whitesmoke;
   background-position-y: 115px;
   background-size: 100%;
