@@ -57,10 +57,6 @@ pre {
   font-weight: 400;
 }
 
-audio {
-  float: right;
-}
-
 iframe {
   display: block;
   margin: 100px auto;
